@@ -3,7 +3,7 @@
 Simple hand tracking with Naruto/Sasuke powers.
 
 ### How to use:
-- Open `index.html` in your browser.
+- Open `index_html.html` in your browser.
 
 ### Controls:
 - **Right Hand Open:** Shows Naruto power.
